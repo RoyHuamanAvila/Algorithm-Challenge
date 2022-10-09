@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "jest": "^29.1.2"
+  },
+  "name": "ejerciciosdealgoritmia",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "npx jest --verbose"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
